@@ -11,7 +11,7 @@ Learn more about it below:
  Custom lookups | Query Expressions | Conditional Expressions | Database Functions
 - Other: Supported databases | Legacy databases | Providing initial data | Optimize database access | PostgreSQL
 specific features
-#The view layer
+# The view layer
 Django has the concept of “views” to encapsulate the logic responsible for processing a user’s request and for returning
 the response. Find all you need to know about views via the links below:
 - The basics: URLconfs | View functions | Shortcuts | Decorators
